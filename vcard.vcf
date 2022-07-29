@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Matthew Ronchetto
+N;CHARSET=UTF-8:Ronchetto;Matthew;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hello@doamatto.xyz
+ORG;CHARSET=UTF-8:doamatto
+URL;type=WORK;CHARSET=UTF-8:https://www.doamatto.xyz/icloud-shortcuts
+REV:2021-10-13T06:34:00.800Z
+END:VCARD
